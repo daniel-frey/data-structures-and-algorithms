@@ -1,2 +1,2 @@
 # data-structures-and-algorithms
-CodeFellows JavaScript 401 Whiteboard Challenges
+CodeFellows Javascript 401 Whiteboarding challenges
