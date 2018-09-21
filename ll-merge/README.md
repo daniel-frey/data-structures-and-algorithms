@@ -1,7 +1,5 @@
-# Linked List Insertions (2)
-
-Create prototype that searches from the end on the LinkedList (LL) class.
-
+# Linked List Merge
+Create a prototype that will take two linked lists and merge them together in a zipper like fashion.
 # Author / Version
 
 Daniel Frey / 1.0.0
