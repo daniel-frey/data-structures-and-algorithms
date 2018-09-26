@@ -31,6 +31,6 @@ class as well as the methods created in previous challenges. ​
 ## Solution
 
 ![whiteboard solution1](whiteboard1.png)
-[whiteboard solution2](whiteboard2.png)
-[whiteboard solution3](whiteboard3.png)
+![whiteboard solution2](whiteboard2.png)
+![whiteboard solution3](whiteboard3.png)
 
