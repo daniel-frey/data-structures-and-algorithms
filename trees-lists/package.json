@@ -1,0 +1,30 @@
+{
+  "name": "01-node-ecosystem",
+  "version": "1.0.0",
+  "description": "Practicing with jest",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tganyan/01-node-ecosystem.git"
+  },
+  "author": "Tyler Anyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tganyan/01-node-ecosystem/issues"
+  },
+  "homepage": "https://github.com/tganyan/01-node-ecosystem#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^21.22.0",
+    "jest": "^23.6.0"
+  }
+}
