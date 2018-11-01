@@ -22,12 +22,12 @@ describe('this test suite will run the bfs-traversal function', () => {
     graph.addVertex(five);
     graph.addVertex(six);
 
+    graph.addDirectedEdge(three, two);
     graph.addDirectedEdge(one, two);
-    graph.addDirectedEdge(one, five);
     graph.addDirectedEdge(one, four);
-    graph.addDirectedEdge(two, three);
+    graph.addDirectedEdge(two, five);
     graph.addDirectedEdge(three, six);
-    graph.addDirectedEdge(five, six);
+    graph.addDirectedEdge(four, six);
 
     bfs(graph, one, six);
 
@@ -52,9 +52,9 @@ describe('this test suite will run the bfs-traversal function', () => {
     graph.addVertex(six);
 
     graph.addDirectedEdge(one, two);
-    graph.addDirectedEdge(one, five);
     graph.addDirectedEdge(one, four);
-    graph.addDirectedEdge(two, three);
+    graph.addDirectedEdge(two, four);
+    graph.addDirectedEdge(three, one);
 
     bfs(graph, one, six);
 
